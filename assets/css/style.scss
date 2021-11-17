@@ -3,13 +3,11 @@
 
 @import "{{ site.theme }}";
 
-footer {
-  display: none !important;
+body{
+  line-height: 1.7;
+  font-size: 20px;
 }
 
-.btn {
-  display: none !important;
-}
-#skip-to-content{
-  display: none;
+li{
+  margin-bottom: 10px;
 }
